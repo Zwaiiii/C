@@ -1,0 +1,11 @@
+C:\Users\deu\Desktop\20193100\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\deu\Desktop\20193100\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\deu\Desktop\20193100\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\deu\Desktop\20193100\Menu\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\deu\Desktop\20193100\Menu\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\deu\Desktop\20193100\Menu\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\deu\Desktop\20193100\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\deu\Desktop\20193100\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\deu\Desktop\20193100\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\deu\Desktop\20193100\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\deu\Desktop\20193100\Menu\Menu\obj\Debug\Menu.pdb
