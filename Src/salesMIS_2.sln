@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "salesMIS_2", "salesMIS_2\salesMIS_2.csproj", "{AB6EAC4D-BE5B-4A48-B448-085039945DDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB6EAC4D-BE5B-4A48-B448-085039945DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6EAC4D-BE5B-4A48-B448-085039945DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6EAC4D-BE5B-4A48-B448-085039945DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6EAC4D-BE5B-4A48-B448-085039945DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD10A3D8-B289-4364-BB70-C795E2292C30}
+	EndGlobalSection
+EndGlobal
