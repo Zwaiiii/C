@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawLineApp", "DrawLineApp\DrawLineApp.csproj", "{C25118BB-1270-4780-B344-63D022D43B3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C25118BB-1270-4780-B344-63D022D43B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25118BB-1270-4780-B344-63D022D43B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25118BB-1270-4780-B344-63D022D43B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25118BB-1270-4780-B344-63D022D43B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22D26D1A-D715-4F9B-B98E-AF532C743123}
+	EndGlobalSection
+EndGlobal
