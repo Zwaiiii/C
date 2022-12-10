@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintEventApp", "PaintEventApp\PaintEventApp.csproj", "{66791399-89A8-4AA7-B356-FE01E2030CB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66791399-89A8-4AA7-B356-FE01E2030CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66791399-89A8-4AA7-B356-FE01E2030CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66791399-89A8-4AA7-B356-FE01E2030CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66791399-89A8-4AA7-B356-FE01E2030CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C3B3E7C-04FC-43EC-9082-563F36FA1362}
+	EndGlobalSection
+EndGlobal
