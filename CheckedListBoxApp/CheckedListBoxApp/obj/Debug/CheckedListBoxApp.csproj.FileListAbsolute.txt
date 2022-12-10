@@ -1,0 +1,11 @@
+C:\Users\deu\Desktop\20193100\CheckedListBoxApp\CheckedListBoxApp\bin\Debug\CheckedListBoxApp.exe.config
+C:\Users\deu\Desktop\20193100\CheckedListBoxApp\CheckedListBoxApp\bin\Debug\CheckedListBoxApp.exe
+C:\Users\deu\Desktop\20193100\CheckedListBoxApp\CheckedListBoxApp\bin\Debug\CheckedListBoxApp.pdb
+C:\Users\deu\Desktop\20193100\CheckedListBoxApp\CheckedListBoxApp\obj\Debug\CheckedListBoxApp.csproj.AssemblyReference.cache
+C:\Users\deu\Desktop\20193100\CheckedListBoxApp\CheckedListBoxApp\obj\Debug\CheckedListBoxApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\deu\Desktop\20193100\CheckedListBoxApp\CheckedListBoxApp\obj\Debug\CheckedListBoxApp.Form1.resources
+C:\Users\deu\Desktop\20193100\CheckedListBoxApp\CheckedListBoxApp\obj\Debug\CheckedListBoxApp.Properties.Resources.resources
+C:\Users\deu\Desktop\20193100\CheckedListBoxApp\CheckedListBoxApp\obj\Debug\CheckedListBoxApp.csproj.GenerateResource.cache
+C:\Users\deu\Desktop\20193100\CheckedListBoxApp\CheckedListBoxApp\obj\Debug\CheckedListBoxApp.csproj.CoreCompileInputs.cache
+C:\Users\deu\Desktop\20193100\CheckedListBoxApp\CheckedListBoxApp\obj\Debug\CheckedListBoxApp.exe
+C:\Users\deu\Desktop\20193100\CheckedListBoxApp\CheckedListBoxApp\obj\Debug\CheckedListBoxApp.pdb
