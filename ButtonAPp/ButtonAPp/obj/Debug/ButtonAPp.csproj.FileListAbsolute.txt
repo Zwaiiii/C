@@ -1,0 +1,11 @@
+C:\Users\deu\Desktop\20193100\ButtonAPp\ButtonAPp\bin\Debug\ButtonAPp.exe.config
+C:\Users\deu\Desktop\20193100\ButtonAPp\ButtonAPp\bin\Debug\ButtonAPp.exe
+C:\Users\deu\Desktop\20193100\ButtonAPp\ButtonAPp\bin\Debug\ButtonAPp.pdb
+C:\Users\deu\Desktop\20193100\ButtonAPp\ButtonAPp\obj\Debug\ButtonAPp.csproj.AssemblyReference.cache
+C:\Users\deu\Desktop\20193100\ButtonAPp\ButtonAPp\obj\Debug\ButtonAPp.csproj.SuggestedBindingRedirects.cache
+C:\Users\deu\Desktop\20193100\ButtonAPp\ButtonAPp\obj\Debug\ButtonAPp.Form1.resources
+C:\Users\deu\Desktop\20193100\ButtonAPp\ButtonAPp\obj\Debug\ButtonAPp.Properties.Resources.resources
+C:\Users\deu\Desktop\20193100\ButtonAPp\ButtonAPp\obj\Debug\ButtonAPp.csproj.GenerateResource.cache
+C:\Users\deu\Desktop\20193100\ButtonAPp\ButtonAPp\obj\Debug\ButtonAPp.csproj.CoreCompileInputs.cache
+C:\Users\deu\Desktop\20193100\ButtonAPp\ButtonAPp\obj\Debug\ButtonAPp.exe
+C:\Users\deu\Desktop\20193100\ButtonAPp\ButtonAPp\obj\Debug\ButtonAPp.pdb
