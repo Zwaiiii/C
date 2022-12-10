@@ -1,0 +1,11 @@
+C:\Users\deu\Desktop\20193100\CreateGraphicsApp\CreateGraphicsApp\bin\Debug\CreateGraphicsApp.exe.config
+C:\Users\deu\Desktop\20193100\CreateGraphicsApp\CreateGraphicsApp\bin\Debug\CreateGraphicsApp.exe
+C:\Users\deu\Desktop\20193100\CreateGraphicsApp\CreateGraphicsApp\bin\Debug\CreateGraphicsApp.pdb
+C:\Users\deu\Desktop\20193100\CreateGraphicsApp\CreateGraphicsApp\obj\Debug\CreateGraphicsApp.csproj.AssemblyReference.cache
+C:\Users\deu\Desktop\20193100\CreateGraphicsApp\CreateGraphicsApp\obj\Debug\CreateGraphicsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\deu\Desktop\20193100\CreateGraphicsApp\CreateGraphicsApp\obj\Debug\CreateGraphicsApp.Form1.resources
+C:\Users\deu\Desktop\20193100\CreateGraphicsApp\CreateGraphicsApp\obj\Debug\CreateGraphicsApp.Properties.Resources.resources
+C:\Users\deu\Desktop\20193100\CreateGraphicsApp\CreateGraphicsApp\obj\Debug\CreateGraphicsApp.csproj.GenerateResource.cache
+C:\Users\deu\Desktop\20193100\CreateGraphicsApp\CreateGraphicsApp\obj\Debug\CreateGraphicsApp.csproj.CoreCompileInputs.cache
+C:\Users\deu\Desktop\20193100\CreateGraphicsApp\CreateGraphicsApp\obj\Debug\CreateGraphicsApp.exe
+C:\Users\deu\Desktop\20193100\CreateGraphicsApp\CreateGraphicsApp\obj\Debug\CreateGraphicsApp.pdb
