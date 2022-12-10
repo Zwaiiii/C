@@ -1,0 +1,8 @@
+C:\Users\deu\Desktop\20193100\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\deu\Desktop\20193100\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\deu\Desktop\20193100\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\deu\Desktop\20193100\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\deu\Desktop\20193100\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\deu\Desktop\20193100\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\deu\Desktop\20193100\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\deu\Desktop\20193100\CalculatorApp\obj\Debug\CalculatorApp.pdb
