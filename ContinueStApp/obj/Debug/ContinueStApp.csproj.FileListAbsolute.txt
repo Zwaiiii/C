@@ -1,0 +1,8 @@
+C:\Users\deu\Desktop\20193100\ContinueStApp\bin\Debug\ContinueStApp.exe.config
+C:\Users\deu\Desktop\20193100\ContinueStApp\bin\Debug\ContinueStApp.exe
+C:\Users\deu\Desktop\20193100\ContinueStApp\bin\Debug\ContinueStApp.pdb
+C:\Users\deu\Desktop\20193100\ContinueStApp\obj\Debug\ContinueStApp.csproj.AssemblyReference.cache
+C:\Users\deu\Desktop\20193100\ContinueStApp\obj\Debug\ContinueStApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\deu\Desktop\20193100\ContinueStApp\obj\Debug\ContinueStApp.csproj.CoreCompileInputs.cache
+C:\Users\deu\Desktop\20193100\ContinueStApp\obj\Debug\ContinueStApp.exe
+C:\Users\deu\Desktop\20193100\ContinueStApp\obj\Debug\ContinueStApp.pdb
