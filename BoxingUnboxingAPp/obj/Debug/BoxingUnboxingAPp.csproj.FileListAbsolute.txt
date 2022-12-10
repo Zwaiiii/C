@@ -1,0 +1,8 @@
+C:\Users\deu\Desktop\20193100\BoxingUnboxingAPp\bin\Debug\BoxingUnboxingAPp.exe.config
+C:\Users\deu\Desktop\20193100\BoxingUnboxingAPp\bin\Debug\BoxingUnboxingAPp.exe
+C:\Users\deu\Desktop\20193100\BoxingUnboxingAPp\bin\Debug\BoxingUnboxingAPp.pdb
+C:\Users\deu\Desktop\20193100\BoxingUnboxingAPp\obj\Debug\BoxingUnboxingAPp.csproj.AssemblyReference.cache
+C:\Users\deu\Desktop\20193100\BoxingUnboxingAPp\obj\Debug\BoxingUnboxingAPp.csproj.SuggestedBindingRedirects.cache
+C:\Users\deu\Desktop\20193100\BoxingUnboxingAPp\obj\Debug\BoxingUnboxingAPp.csproj.CoreCompileInputs.cache
+C:\Users\deu\Desktop\20193100\BoxingUnboxingAPp\obj\Debug\BoxingUnboxingAPp.exe
+C:\Users\deu\Desktop\20193100\BoxingUnboxingAPp\obj\Debug\BoxingUnboxingAPp.pdb
