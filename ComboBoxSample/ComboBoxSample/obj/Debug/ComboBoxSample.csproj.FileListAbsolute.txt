@@ -1,0 +1,11 @@
+C:\Users\deu\Desktop\20193100\ComboBoxSample\ComboBoxSample\obj\Debug\ComboBoxSample.csproj.AssemblyReference.cache
+C:\Users\deu\Desktop\20193100\ComboBoxSample\ComboBoxSample\obj\Debug\ComboBoxSample.csproj.SuggestedBindingRedirects.cache
+C:\Users\deu\Desktop\20193100\ComboBoxSample\ComboBoxSample\obj\Debug\ComboBoxSample.Form1.resources
+C:\Users\deu\Desktop\20193100\ComboBoxSample\ComboBoxSample\obj\Debug\ComboBoxSample.Properties.Resources.resources
+C:\Users\deu\Desktop\20193100\ComboBoxSample\ComboBoxSample\obj\Debug\ComboBoxSample.csproj.GenerateResource.cache
+C:\Users\deu\Desktop\20193100\ComboBoxSample\ComboBoxSample\obj\Debug\ComboBoxSample.csproj.CoreCompileInputs.cache
+C:\Users\deu\Desktop\20193100\ComboBoxSample\ComboBoxSample\bin\Debug\ComboBoxSample.exe.config
+C:\Users\deu\Desktop\20193100\ComboBoxSample\ComboBoxSample\bin\Debug\ComboBoxSample.exe
+C:\Users\deu\Desktop\20193100\ComboBoxSample\ComboBoxSample\bin\Debug\ComboBoxSample.pdb
+C:\Users\deu\Desktop\20193100\ComboBoxSample\ComboBoxSample\obj\Debug\ComboBoxSample.exe
+C:\Users\deu\Desktop\20193100\ComboBoxSample\ComboBoxSample\obj\Debug\ComboBoxSample.pdb
