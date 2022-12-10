@@ -1,0 +1,8 @@
+C:\Users\deu\Desktop\20193100\Current_exchange\bin\Debug\Current_exchange.exe.config
+C:\Users\deu\Desktop\20193100\Current_exchange\bin\Debug\Current_exchange.exe
+C:\Users\deu\Desktop\20193100\Current_exchange\bin\Debug\Current_exchange.pdb
+C:\Users\deu\Desktop\20193100\Current_exchange\obj\Debug\Current_exchange.csproj.AssemblyReference.cache
+C:\Users\deu\Desktop\20193100\Current_exchange\obj\Debug\Current_exchange.csproj.SuggestedBindingRedirects.cache
+C:\Users\deu\Desktop\20193100\Current_exchange\obj\Debug\Current_exchange.csproj.CoreCompileInputs.cache
+C:\Users\deu\Desktop\20193100\Current_exchange\obj\Debug\Current_exchange.exe
+C:\Users\deu\Desktop\20193100\Current_exchange\obj\Debug\Current_exchange.pdb
