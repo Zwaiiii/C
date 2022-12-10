@@ -1,0 +1,8 @@
+C:\Users\deu\Desktop\20193100\ConditionalOperatorApp\bin\Debug\ConditionalOperatorApp.exe.config
+C:\Users\deu\Desktop\20193100\ConditionalOperatorApp\bin\Debug\ConditionalOperatorApp.exe
+C:\Users\deu\Desktop\20193100\ConditionalOperatorApp\bin\Debug\ConditionalOperatorApp.pdb
+C:\Users\deu\Desktop\20193100\ConditionalOperatorApp\obj\Debug\ConditionalOperatorApp.csproj.AssemblyReference.cache
+C:\Users\deu\Desktop\20193100\ConditionalOperatorApp\obj\Debug\ConditionalOperatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\deu\Desktop\20193100\ConditionalOperatorApp\obj\Debug\ConditionalOperatorApp.csproj.CoreCompileInputs.cache
+C:\Users\deu\Desktop\20193100\ConditionalOperatorApp\obj\Debug\ConditionalOperatorApp.exe
+C:\Users\deu\Desktop\20193100\ConditionalOperatorApp\obj\Debug\ConditionalOperatorApp.pdb
