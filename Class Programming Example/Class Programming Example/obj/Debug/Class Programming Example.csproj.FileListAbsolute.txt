@@ -1,0 +1,11 @@
+C:\Users\deu\Desktop\20193100\Class Programming Example\Class Programming Example\bin\Debug\Class Programming Example.exe.config
+C:\Users\deu\Desktop\20193100\Class Programming Example\Class Programming Example\bin\Debug\Class Programming Example.exe
+C:\Users\deu\Desktop\20193100\Class Programming Example\Class Programming Example\bin\Debug\Class Programming Example.pdb
+C:\Users\deu\Desktop\20193100\Class Programming Example\Class Programming Example\obj\Debug\Class Programming Example.csproj.AssemblyReference.cache
+C:\Users\deu\Desktop\20193100\Class Programming Example\Class Programming Example\obj\Debug\Class Programming Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\deu\Desktop\20193100\Class Programming Example\Class Programming Example\obj\Debug\Class_Programming_Example.frmClassExample.resources
+C:\Users\deu\Desktop\20193100\Class Programming Example\Class Programming Example\obj\Debug\Class_Programming_Example.Properties.Resources.resources
+C:\Users\deu\Desktop\20193100\Class Programming Example\Class Programming Example\obj\Debug\Class Programming Example.csproj.GenerateResource.cache
+C:\Users\deu\Desktop\20193100\Class Programming Example\Class Programming Example\obj\Debug\Class Programming Example.csproj.CoreCompileInputs.cache
+C:\Users\deu\Desktop\20193100\Class Programming Example\Class Programming Example\obj\Debug\Class Programming Example.exe
+C:\Users\deu\Desktop\20193100\Class Programming Example\Class Programming Example\obj\Debug\Class Programming Example.pdb
