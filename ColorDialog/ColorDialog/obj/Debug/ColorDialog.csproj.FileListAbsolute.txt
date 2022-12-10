@@ -1,0 +1,11 @@
+C:\Users\deu\Desktop\20193100\ColorDialog\ColorDialog\bin\Debug\ColorDialog.exe.config
+C:\Users\deu\Desktop\20193100\ColorDialog\ColorDialog\bin\Debug\ColorDialog.exe
+C:\Users\deu\Desktop\20193100\ColorDialog\ColorDialog\bin\Debug\ColorDialog.pdb
+C:\Users\deu\Desktop\20193100\ColorDialog\ColorDialog\obj\Debug\ColorDialog.csproj.AssemblyReference.cache
+C:\Users\deu\Desktop\20193100\ColorDialog\ColorDialog\obj\Debug\ColorDialog.csproj.SuggestedBindingRedirects.cache
+C:\Users\deu\Desktop\20193100\ColorDialog\ColorDialog\obj\Debug\ColorDialog.Form1.resources
+C:\Users\deu\Desktop\20193100\ColorDialog\ColorDialog\obj\Debug\ColorDialog.Properties.Resources.resources
+C:\Users\deu\Desktop\20193100\ColorDialog\ColorDialog\obj\Debug\ColorDialog.csproj.GenerateResource.cache
+C:\Users\deu\Desktop\20193100\ColorDialog\ColorDialog\obj\Debug\ColorDialog.csproj.CoreCompileInputs.cache
+C:\Users\deu\Desktop\20193100\ColorDialog\ColorDialog\obj\Debug\ColorDialog.exe
+C:\Users\deu\Desktop\20193100\ColorDialog\ColorDialog\obj\Debug\ColorDialog.pdb
